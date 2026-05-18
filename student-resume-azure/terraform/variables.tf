@@ -1,5 +1,5 @@
 variable "location" {
-  default = "centralus"
+  default = "eastus"
 }
 
 variable "admin_username" {
